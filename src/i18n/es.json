@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "sobre": "Sobre",
+    "publicacoes": "Publicaciones",
+    "areaPaciente": "Área del Paciente",
+    "contato": "Contacto"
+  },
+  "hero": {
+    "nome": "Dra. Leiza Loiane Hollas",
+    "especialidade": "Especialista en Cirugía Cardiovascular",
+    "crm": "CRM-PR 40485"
+  },
+  "sobre": {
+    "titulo": "Sobre la Dra. Leiza",
+    "texto": "Dra. Leiza Loiane Hollas\n Cirugía Cardiovascular\nGraduada en Medicina por la Pontificia Universidad Católica de Paraná (2018).\n\nRealizó su residencia médica en Cirugía Cardiovascular en el Hospital de la Cruz Roja Brasileña - Paraná. Sus principales áreas de actuación incluyen cirugía cardiovascular, simulación quirúrgica y cirugía valvular.\n\nEs investigadora científica, con artículos publicados en revistas científicas brasileñas.\n\nMiembro de The Valve Club, una organización dedicada a difundir conocimiento y ciencia mediante publicaciones sobre Valvulopatías y Cardiopatías Estructurales, un área de creciente interés en la Cardiología.",
+    "altImagem": "Foto de la Dra. Leiza Loiane Hollas"
+  },
+  "servicos": {
+    "titulo": "Especialidades",
+    "cirurgia": "Cirugía Cardíaca",
+    "avaliacao": "Evaluación Preoperatoria"
+  },
+  "publicacoes": {
+    "titulo": "Artículos y Publicaciones",
+    "botao": "Leer más",
+    "artigos": [
+      {
+        "titulo": "Manual básico de cirugía torácica y cardiovascular de la LACTCV",
+        "data": "Publicado el 24 de octubre de 2021",
+        "resumo": "El objetivo es proporcionar conocimientos básicos sobre cirugía torácica y cardiovascular, especialmente para estudiantes de medicina, de forma didáctica. En este manual comenzarás un recorrido por los principios esenciales de la especialidad. Esperamos que disfrutes la lectura y que este libro sea tu primer paso hacia la excelencia quirúrgica.",
+        "link": "https://atenaeditora.com.br/catalogo/ebook/manual-basico-de-cirurgia-toracica-e-cardiovascular-da-lactcv"
+      },
+      {
+        "titulo": "Abordaje quirúrgico convencional tras falla del Mitraclip",
+        "data": "Intervención en Cardiopatía Estructural",
+        "resumo": "El aumento de enfermedades valvulares estructurales sigue el envejecimiento poblacional. Hay una gran demanda por intervenciones quirúrgicas convencionales y mínimamente invasivas para reducir la morbimortalidad.",
+        "link": "https://thevalveclub.com.br/intervencao-na-cardiopatia-estrutural/"
+      },
+      {
+        "titulo": "Publicaciones relevantes sobre cirugía de la válvula mitral",
+        "data": "Válvula Mitral",
+        "resumo": "La válvula mitral siempre ha sido de gran interés en cirugía cardíaca. Su anatomía compleja y función precisa hacen que sea una región de especial atención médica. El primer tratamiento se remonta a 1923 en el Peter Bent Brigham Hospital.",
+        "link": "https://thevalveclub.com.br/valva-mitral/"
+      },
+      {
+        "titulo": "Visión del cirujano sobre la disfunción de prótesis biológicas",
+        "data": "Identificando disfunciones en bioprótesis",
+        "resumo": "El aumento de las enfermedades valvulares está asociado al envejecimiento y la fiebre reumática. Esto genera una alta demanda de intervenciones en pacientes jóvenes.",
+        "link": "https://thevalveclub.com.br/when-the-goats-go-wrong/"
+      },
+      {
+        "titulo": "Técnicas valve-sparing en aneurisma de aorta",
+        "data": "Consejos para cirugía de aneurisma aórtico",
+        "resumo": "En 1900, el Dr. William Osler ya afirmaba: 'No hay enfermedad que genere más humildad clínica que los aneurismas aórticos'. Esta afirmación sigue siendo cierta hoy en día.",
+        "link": "https://thevalveclub.com.br/david-e-yacoub/"
+      },
+      {
+        "titulo": "Visión quirúrgica de la valvulopatía tricuspídea",
+        "data": "Valvulopatía tricúspide",
+        "resumo": "La intervención está indicada cuando se realiza junto con cirugía mitral o aórtica. En casos aislados, la intervención sigue siendo motivo de debate médico.",
+        "link": "https://thevalveclub.com.br/the-forgotten-valve/"
+      }
+    ]
+  },
+"contato": {
+  "titulo": "Contacto",
+  "descricao": "Póngase en contacto para agendar una consulta o resolver dudas.",
+  "agendamento": "Agendamiento de Consultas",
+  "nome": "Nombre",
+  "email": "Correo electrónico",
+  "mensagem": "Mensaje",
+  "enviar": "Enviar Mensaje",
+  "telefone": "Teléfono: (41) 3016-6622",
+  "hospital": "Hospital de la Cruz Roja Brasileña - Paraná",
+  "endereco": "Dirección: Av. Vicente Machado, 1280, R. Cap. Souza Franco, 50 - Batel, Curitiba - PR, 80420-011",
+  "sucesso": "¡Mensaje enviado con éxito! ✅",
+  "erro": "Error al enviar. Inténtalo de nuevo. ❌"
+},
+  "paciente": {
+    "titulo": "Área del Paciente",
+    "preop": {
+      "titulo": "Instrucciones Preoperatorias",
+      "card1": { "titulo": "Ayuno", "texto": "Mantenga ayuno absoluto durante 8 horas antes de la cirugía, incluyendo agua." },
+      "card2": { "titulo": "Medicamentos", "texto": "Informe al médico sobre todos los medicamentos que utiliza y alergias conocidas." },
+      "card3": { "titulo": "Documentos Necesarios", "texto": "Lleve documento con foto, exámenes recientes y autorización del seguro si corresponde." },
+      "card4": { "titulo": "Higiene Personal", "texto": "Dúchese con jabón antiséptico la noche anterior y el día de la cirugía." }
+    },
+    "seguranca": {
+      "titulo": "Seguridad del Paciente",
+      "card1": { "titulo": "Identificación Correcta", "texto": "Confirme su nombre completo antes de exámenes o procedimientos. Mantenga la pulsera de identificación hasta el alta." },
+      "card2": { "titulo": "Pagos y Seguridad", "texto": "No proporcione datos ni realice pagos por teléfono. Consulte a la tesorería del hospital en caso de dudas." }
+    },
+    "quedas": {
+      "titulo": "Prevención de Caídas",
+      "card1": { "titulo": "Evite Caminar Solo", "texto": "Aunque se sienta bien, llame al equipo de enfermería antes de levantarse." },
+      "card2": { "titulo": "Objetos al Alcance", "texto": "Mantenga los objetos personales cerca y el timbre de llamada accesible." }
+    },
+    "higiene": {
+      "titulo": "Higiene de Manos",
+      "card1": { "titulo": "Lávese Siempre las Manos", "texto": "Después del baño, antes de las comidas, al llegar o salir del hospital. Use alcohol al 70% si no hay suciedad visible." },
+      "card2": { "titulo": "Oriente a los Acompañantes", "texto": "Pida a los acompañantes y visitantes que se higienicen las manos con frecuencia." }
+    },
+    "internacaoMed": {
+      "titulo": "Internación y Medicamentos",
+      "card1": { "titulo": "Suspensión de Anticoagulantes", "texto": "AAS, Clopidogrel, Marevan, Marcoumar, Eliquis deben suspenderse 5 días antes de la cirugía. Rivaroxabana, 2 días antes. ¡Siga siempre la orientación médica!" },
+      "card2": { "titulo": "Horario de Internación", "texto": "Ingresar el día anterior a la cirugía a las 14h. Llevar documentos, exámenes, autorización y objetos personales." },
+      "card3": { "titulo": "Remoción de Accesorios", "texto": "Retire pestañas postizas, uñas de gel, piercings, expansores, extensiones de cabello y objetos de valor." },
+      "card4": { "titulo": "Centro de Internación", "texto": "Después de la autorización del seguro de salud, se debe programar la evaluación preanestésica con anticipación." }
+    },
+    "duvidas": {
+      "titulo": "Preguntas Frecuentes",
+      "card1": { "titulo": "¿Puedo tener un acompañante?", "texto": "Sí, se permite un acompañante mayor de 18 años durante la internación." },
+      "card2": { "titulo": "¿Puedo llevar comida?", "texto": "No se permite traer alimentos del exterior sin autorización del equipo de nutrición." },
+      "card3": { "titulo": "Horarios de Visita", "texto": "Las visitas están permitidas de 14:00 a 20:00. Menores de 16 años no pueden ingresar a UCI." },
+      "card4": { "titulo": "¿Cómo hablar con el equipo médico?", "texto": "La información clínica será proporcionada por el médico responsable al representante legal." }
+    }
+  }
+}
+

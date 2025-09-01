@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Início",
+    "sobre": "Sobre",
+    "publicacoes": "Publicações",
+    "areaPaciente": "Área do Paciente",
+    "contato": "Contato"
+  },
+  "hero": {
+    "nome": "Dra. Leiza Loiane Hollas",
+    "especialidade": "Especialista em Cirurgia Cardiovascular",
+    "crm": "CRM-PR 40485"
+  },
+  "sobre": {
+    "titulo": "Sobre a Dra. Leiza",
+    "texto": "Dra. Leiza Loiane Hollas\n Cirurgia Cardiovascular\nMédica pela Pontifícia Universidade Católica do Paraná (2018).\n\nResidência médica concluída em Cirurgia Cardiovascular no Hospital da Cruz Vermelha Brasileira - Paraná. Atuando principalmente nos seguintes temas: cirurgia cardiovascular, simulação cirúrgica e cirurgia valvar.\n\nPesquisadora científica, com artigos publicados em periódicos e revistas científicas brasileiras.\n\nMembro do The Valve Club, que tem como objetivo a disseminação de conhecimento e ciência através de postagens de artigos relacionados a Valvopatias e Cardiopatia Estrutural, área de interesse crescente na Cardiologia.",
+    "altImagem": "Foto da Dra. Leiza Loiane Hollas"
+  },
+  "servicos": {
+    "titulo": "Especialidades",
+    "cirurgia": "Cirurgia Cardíaca",
+    "avaliacao": "Avaliação Pré-operatória"
+  },
+  "paciente": {
+    "titulo": "Área do Paciente",
+    "descricao": "Nesta área você encontrará informações úteis, orientações pré e pós-operatórias, e poderá acessar documentos importantes.",
+    "pre": "Instruções pré-operatórias",
+    "pos": "Cuidados pós-cirúrgicos",
+    "documentos": "Documentos para download (em breve)",
+    "preop": {
+      "titulo": "Instruções Pré-Operatórias",
+      "card1": { "titulo": "Jejum", "texto": "Mantenha jejum absoluto de 8 horas antes da cirurgia, incluindo água." },
+      "card2": { "titulo": "Medicamentos", "texto": "Informe ao médico sobre todos os medicamentos em uso e alergias conhecidas." },
+      "card3": { "titulo": "Documentos Necessários", "texto": "Leve documento com foto, exames recentes e autorização do convênio, se aplicável." },
+      "card4": { "titulo": "Higiene Pessoal", "texto": "Tome banho com sabonete antisséptico na noite anterior e no dia da cirurgia." }
+    },
+    "seguranca": {
+      "titulo": "Segurança do Paciente",
+      "card1": { "titulo": "Identificação Correta", "texto": "Confirme seu nome completo antes de exames ou procedimentos. Mantenha a pulseira de identificação até a alta." },
+      "card2": { "titulo": "Pagamentos e Segurança", "texto": "Não forneça dados ou realize pagamentos por telefone. Dúvidas devem ser tratadas com a tesouraria do hospital." }
+    },
+    "quedas": {
+      "titulo": "Prevenção de Quedas",
+      "card1": { "titulo": "Evite Caminhar Sozinho", "texto": "Mesmo se sentir bem, chame a equipe de enfermagem antes de levantar-se." },
+      "card2": { "titulo": "Objetos ao Alcance", "texto": "Deixe objetos pessoais próximos e mantenha a campainha acessível." }
+    },
+    "higiene": {
+      "titulo": "Higienização das Mãos",
+      "card1": { "titulo": "Lave Sempre as Mãos", "texto": "Após o banheiro, antes das refeições, ao chegar ou sair do hospital. Use álcool 70% se não houver sujidade visível." },
+      "card2": { "titulo": "Oriente Acompanhantes", "texto": "Peça para que acompanhantes e visitantes também higienizem as mãos com frequência." }
+    },
+    "internacaoMed": {
+      "titulo": "Internação e Medicações",
+      "card1": { "titulo": "Suspensão de Anticoagulantes", "texto": "AAS, Clopidogrel, Marevan, Marcoumar, Eliquis devem ser suspensos 5 dias antes da cirurgia. Rivaroxabana, 2 dias antes. Sempre siga orientação médica!" },
+      "card2": { "titulo": "Horário da Internação", "texto": "Internar no dia anterior à cirurgia, às 14h. Levar documentos, exames, autorização e objetos de uso pessoal." },
+      "card3": { "titulo": "Remoção de Acessórios", "texto": "Remova cílios postiços, unhas em gel, piercings, alargadores, extensões de cabelo e objetos de valor." },
+      "card4": { "titulo": "Central de Internação", "texto": "Após autorização do plano de saúde, é necessário agendar avaliação pré-anestésica com antecedência." }
+    },
+    "duvidas": {
+      "titulo": "Dúvidas Frequentes",
+      "card1": { "titulo": "Posso ter um acompanhante?", "texto": "Sim, é permitido um acompanhante maior de 18 anos durante a internação." },
+      "card2": { "titulo": "Posso levar alimentos?", "texto": "Não é permitido trazer alimentos de fora sem autorização da equipe de nutrição." },
+      "card3": { "titulo": "Horários de visita", "texto": "As visitas são permitidas das 14h às 20h. Menores de 16 anos não podem visitar UTIs." },
+      "card4": { "titulo": "Como falar com a equipe médica?", "texto": "Informações clínicas são passadas pelo médico responsável ao responsável legal." }
+    }
+  },
+  "publicacoes": {
+    "titulo": "Artigos e Publicações",
+    "botao": "Leia mais",
+    "artigos": [
+      {
+        "titulo": "Manual básico de cirurgia torácica e cardiovascular da LACTCV",
+        "data": "Publicado em 24 de outubro de 2021",
+        "resumo": "A proposta é trazer um conhecimento básico da cirurgia torácica e cardiovascular principalmente para acadêmicos de medicina de forma didática. Nas páginas do “Manual Básico de Cirurgia Torácica e Cardiovascular da LACTCV”, você iniciará uma jornada de aprofundamento nos princípios básicos e essenciais da cirurgia torácica e cardiovascular. Esperamos que você desfrute desta leitura e considere este livro como um dos primeiros passos para a busca contínua pela excelência que a cirurgia exige através da precisão e dedicação.",
+        "link": "https://atenaeditora.com.br/catalogo/ebook/manual-basico-de-cirurgia-toracica-e-cardiovascular-da-lactcv"
+      },
+      {
+        "titulo": "Abordagem cirúrgica convencional após uma falha do Mitraclip",
+        "data": "Intervenção na Cardiopatia Estrutural",
+        "resumo": "O aumento da incidência de cardiopatias estruturais valvares acompanha o progressivo envelhecimento da população e, dada a alta prevalência, hoje há grande anseio do meio médico pela busca de estratégias intervencionistas – tanto cirúrgicas convencionais quanto às minimamente invasivas (transcateter) – que podem ser indicadas para pacientes portadores de valvopatia cardíaca, objetivando a redução da morbimortalidade associada a esta doença.",
+        "link": "https://thevalveclub.com.br/intervencao-na-cardiopatia-estrutural/"
+      },
+      {
+        "titulo": "Publicações relevantes sobre cirurgia da valva mitral",
+        "data": "Valva Mitral",
+        "resumo": "A valva mitral sempre despertou fascínio na cirurgia cardíaca. Sua funcionalidade precisa e anatomia complexa fazem dela uma área de interesse significativo na pesquisa médica e na prática clínica. A história do tratamento das patologias valvares tem início em 1923, no “Peter Bent Brigham Hospital”.",
+        "link": "https://thevalveclub.com.br/valva-mitral/"
+      },
+      {
+        "titulo": "A visão do cirurgião na disfunção de próteses biológicas",
+        "data": "Identificando disfunção de biopróteses",
+        "resumo": "O aumento da incidência de cardiopatias estruturais valvares acompanha o progressivo envelhecimento da população e, dada a alta prevalência de febre reumática, com consequente acometimento de pacientes jovens, a demanda por intervenção valvar é diretamente impactada.",
+        "link": "https://thevalveclub.com.br/when-the-goats-go-wrong/"
+      },
+      {
+        "titulo": "Técnicas de valve-sparing no aneurisma de aorta",
+        "data": "Dicas para Cirurgia de Aneurisma de Aorta",
+        "resumo": "Em 1900 o Dr. Willian Osler já apontava uma verdade na medicina: “não há doença mais propícia à humildade clínica do que aneurismas da aorta”. A afirmação de Osler é verídica, visto que até hoje, as doenças da aorta são um desafio clínico-cirúrgico para a área médica.",
+        "link": "https://thevalveclub.com.br/david-e-yacoub/"
+      },
+      {
+        "titulo": "A visão do cirurgião na Valvopatia tricúspide",
+        "data": "A valvopatia tricúspide",
+        "resumo": "A intervenção na valvopatia tricúspide tem sua clara indicação quando ocorre concomitantemente à indicação de intervenção das valvopatias mitral e aórtica. Quando presente de maneira isolada, a indicação de intervenção ainda é motivo de controvérsias entre cirurgiões e cardiologistas, com mais prevalência na presença da estenose valvar.",
+        "link": "https://thevalveclub.com.br/the-forgotten-valve/"
+      }
+    ]
+  },
+"contato": {
+  "titulo": "Contato",
+  "descricao": "Entre em contato para agendar uma consulta ou tirar dúvidas.",
+  "agendamento": "Agendamento de Consultas",
+  "nome": "Nome",
+  "email": "E-mail",
+  "mensagem": "Mensagem",
+  "enviar": "Enviar Mensagem",
+  "telefone": "Telefone: (41) 3016-6622",
+  "hospital": "Hospital da Cruz Vermelha Brasileira - Paraná",
+  "endereco": "Endereço: Av. Vicente Machado, 1280, R. Cap. Souza Franco, 50 - Batel, Curitiba - PR, 80420-011",
+  "sucesso": "Mensagem enviada com sucesso! ✅",
+  "erro": "Erro ao enviar. Tente novamente. ❌"
+}
+
+
+}
+

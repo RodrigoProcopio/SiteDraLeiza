@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "home": "Home",
+    "sobre": "About",
+    "publicacoes": "Publications",
+    "areaPaciente": "Patient Area",
+    "contato": "Contact"
+  },
+  "servicos": {
+    "titulo": "Specialties",
+    "cirurgia": "Cardiac Surgery",
+    "avaliacao": "Preoperative Assessment"
+  },
+  "hero": {
+    "nome": "Dr. Leiza Loiane Hollas",
+    "especialidade": "Cardiovascular Surgery Specialist",
+    "crm": "CRM-PR 40485"
+  },
+  "sobre": {
+    "titulo": "About Dr. Leiza",
+    "texto": "Dr. Leiza Loiane Hollas\nCardiovascular Surgery\nGraduated in Medicine from the Pontifical Catholic University of Paraná (2018).\n\nShe completed her medical residency in Cardiovascular Surgery at the Brazilian Red Cross Hospital - Paraná. Her main areas of practice include cardiovascular surgery, surgical simulation, and valvular surgery.\n\nShe is a scientific researcher with articles published in Brazilian journals and scientific magazines.\n\nMember of The Valve Club, an organization focused on spreading knowledge and science through posts about Valvular Heart Disease and Structural Heart Disease — a growing area of interest in Cardiology.",
+    "altImagem": "Photo of Dr. Leiza Loiane Hollas"
+  },
+"contato": {
+  "titulo": "Contact",
+  "descricao": "Get in touch to schedule an appointment or ask questions.",
+  "agendamento": "Appointment Scheduling",
+  "nome": "Name",
+  "email": "Email",
+  "mensagem": "Message",
+  "enviar": "Send Message",
+  "telefone": "Phone: (41) 3016-6622",
+  "hospital": "Brazilian Red Cross Hospital - Paraná",
+  "endereco": "Address: Av. Vicente Machado, 1280, R. Cap. Souza Franco, 50 - Batel, Curitiba - PR, 80420-011",
+  "sucesso": "Message sent successfully! ✅",
+  "erro": "Error sending. Please try again. ❌"
+},
+  "paciente": {
+    "titulo": "Patient Area",
+    "preop": {
+      "titulo": "Preoperative Instructions",
+      "card1": {
+        "titulo": "Fasting",
+        "texto": "Maintain absolute fasting for 8 hours before surgery, including water."
+      },
+      "card2": {
+        "titulo": "Medications",
+        "texto": "Inform your doctor about all medications used and known allergies."
+      },
+      "card3": {
+        "titulo": "Required Documents",
+        "texto": "Bring a photo ID, recent tests, and insurance authorization if applicable."
+      },
+      "card4": {
+        "titulo": "Personal Hygiene",
+        "texto": "Take a shower with antiseptic soap the night before and the day of surgery."
+      }
+    },
+    "seguranca": {
+      "titulo": "Patient Safety",
+      "card1": {
+        "titulo": "Correct Identification",
+        "texto": "Confirm your full name before any exams or procedures. Keep the ID bracelet until discharge."
+      },
+      "card2": {
+        "titulo": "Payments and Security",
+        "texto": "Do not provide data or make payments over the phone. Contact the hospital’s cashier for questions."
+      }
+    },
+    "quedas": {
+      "titulo": "Fall Prevention",
+      "card1": {
+        "titulo": "Avoid Walking Alone",
+        "texto": "Even if you feel fine, call the nursing team before getting up."
+      },
+      "card2": {
+        "titulo": "Keep Items Nearby",
+        "texto": "Keep personal items within reach and the call button accessible."
+      }
+    },
+    "higiene": {
+      "titulo": "Hand Hygiene",
+      "card1": {
+        "titulo": "Always Wash Your Hands",
+        "texto": "After using the bathroom, before meals, and when entering or leaving the hospital. Use 70% alcohol if not visibly dirty."
+      },
+      "card2": {
+        "titulo": "Guide Visitors",
+        "texto": "Ask companions and visitors to clean their hands frequently too."
+      }
+    },
+    "internacaoMed": {
+      "titulo": "Hospitalization and Medications",
+      "card1": {
+        "titulo": "Anticoagulant Suspension",
+        "texto": "AAS, Clopidogrel, Marevan, Marcoumar, Eliquis must be suspended 5 days before surgery. Rivaroxaban, 2 days before. Always follow medical advice!"
+      },
+      "card2": {
+        "titulo": "Hospitalization Time",
+        "texto": "Hospitalize the day before surgery at 2 PM. Bring documents, exams, authorization, and personal items."
+      },
+      "card3": {
+        "titulo": "Accessory Removal",
+        "texto": "Remove false eyelashes, gel nails, piercings, spacers, hair extensions, and valuables."
+      },
+      "card4": {
+        "titulo": "Hospital Admission Center",
+        "texto": "After insurance approval, it is necessary to schedule the pre-anesthetic evaluation in advance."
+      }
+    },
+    "duvidas": {
+      "titulo": "Frequently Asked Questions",
+      "card1": {
+        "titulo": "Can I have a companion?",
+        "texto": "Yes, one companion over 18 is allowed during hospitalization."
+      },
+      "card2": {
+        "titulo": "Can I bring food?",
+        "texto": "Bringing outside food is not allowed without permission from the nutrition team."
+      },
+      "card3": {
+        "titulo": "Visiting Hours",
+        "texto": "Visits are allowed from 2 PM to 8 PM. Under 16s are not allowed in ICUs."
+      },
+      "card4": {
+        "titulo": "How to speak with the medical team?",
+        "texto": "Medical information is given by the responsible doctor to the legal guardian."
+      }
+    }
+  },
+  "publicacoes": {
+    "titulo": "Articles and Publications",
+    "botao": "Read more",
+    "artigos": [
+      {
+        "titulo": "Basic Manual of Thoracic and Cardiovascular Surgery by LACTCV",
+        "data": "Published on October 24, 2021",
+        "resumo": "The purpose is to provide basic knowledge of thoracic and cardiovascular surgery, especially for medical students, in a didactic way. In the pages of the “Basic Manual of Thoracic and Cardiovascular Surgery by LACTCV,” you will begin a journey of deepening in basic and essential principles. We hope you enjoy the reading and see this book as a first step in the pursuit of excellence that surgery demands.",
+        "link": "https://atenaeditora.com.br/catalogo/ebook/manual-basico-de-cirurgia-toracica-e-cardiovascular-da-lactcv"
+      },
+      {
+        "titulo": "Conventional surgical approach after a Mitraclip failure",
+        "data": "Structural Heart Disease Intervention",
+        "resumo": "The growing incidence of valvular structural heart diseases follows the aging population. There is a high demand for both conventional and minimally invasive (transcatheter) interventions to reduce morbidity and mortality.",
+        "link": "https://thevalveclub.com.br/intervencao-na-cardiopatia-estrutural/"
+      },
+      {
+        "titulo": "Relevant publications on mitral valve surgery",
+        "data": "Mitral Valve",
+        "resumo": "The mitral valve has always fascinated cardiac surgeons. Its precise function and complex anatomy make it an area of significant medical interest. Treatment history begins in 1923 at the Peter Bent Brigham Hospital.",
+        "link": "https://thevalveclub.com.br/valva-mitral/"
+      },
+      {
+        "titulo": "The surgeon’s view on bioprosthetic valve dysfunction",
+        "data": "Identifying bioprosthetic dysfunction",
+        "resumo": "The increase in valvular heart disease correlates with aging and rheumatic fever. There's an increasing demand for valve interventions, especially among younger patients.",
+        "link": "https://thevalveclub.com.br/when-the-goats-go-wrong/"
+      },
+      {
+        "titulo": "Valve-sparing techniques in aortic aneurysm",
+        "data": "Tips for Aortic Aneurysm Surgery",
+        "resumo": "In 1900, Dr. William Osler stated: 'There is no disease more humbling than aortic aneurysms.' This remains true, as aortic diseases continue to be a major clinical-surgical challenge.",
+        "link": "https://thevalveclub.com.br/david-e-yacoub/"
+      },
+      {
+        "titulo": "The surgeon’s view on tricuspid valve disease",
+        "data": "Tricuspid valve disease",
+        "resumo": "Intervention is clearly indicated when combined with mitral or aortic valve surgery. Isolated tricuspid disease intervention remains controversial, more frequent in cases of stenosis.",
+        "link": "https://thevalveclub.com.br/the-forgotten-valve/"
+      }
+    ]
+  }
+}
+
+
+

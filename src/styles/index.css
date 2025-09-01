@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global box sizing */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(0.1px); /* <- mais leve */
+  z-index: -1;
+}
+
+
+body {
+  @apply bg-repeat bg-top;
+  background-image: url('/assets/bg-medico-optimized.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@keyframes drawECG {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-ecg path {
+  animation: drawECG 6s linear infinite;
+}
+
